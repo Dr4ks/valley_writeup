@@ -80,6 +80,7 @@ We go to home directory and there is file called "valleyAuthenticator" as this f
 we need to read this file by using 'strings' command as because 'cat' gives misunderstandable result.
 
 From here, on 11896 and 11897 lines are hashed credentials for us let's decrypt them.
+![hashedcreds](images/hashedcreds.png)
 
 username=>e6722920bab2326f8217e4bf6b1b58ac=>liberty123
 password=>dd2921cc76ee3abfd2beb60709056cfb=>valley
